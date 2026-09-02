@@ -34,9 +34,11 @@ Demo video: [`docs/videos/demo.mp4`](docs/videos/demo.mp4)
 | Piezo / sharp buzzer | all nodes |
 | Momentary push button | Transmitter |
 | Status LED | Relay, Transmitter |
-| 2xAA/3xAAA battery holder | per node |
+| 18560 battery holder | per node |
 | Whip antenna (SMA) | per node |
 
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+what to change in this
