@@ -5,7 +5,7 @@
 
 A long-range wireless panic-button / alert system built as a hobby project using battery-powered button posts, LoRa relays, and an ESP32 base station with an OLED display and WiFi configuration portal for naming nodes.
 
-![Deployed pair showing a received alert](docs/images/deployed-pair-received-alert.jpg)
+![Deployed pair showing a received alert](docs/images/docs/images/three-enclosures-lineup.jpg)
 
 More photos: [`docs/gallery.md`](docs/gallery.md)
 
